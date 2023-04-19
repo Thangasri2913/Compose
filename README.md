@@ -1,7 +1,6 @@
 # # A-text-input-validation-and-android-demonstration
 
 
-google developer link-
+google developer link - https://g.dev/thangasri29
 
-
-demo video link-
+video demo link-
